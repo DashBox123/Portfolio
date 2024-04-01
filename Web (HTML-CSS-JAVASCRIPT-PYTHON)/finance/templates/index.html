@@ -1,0 +1,57 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Index
+{% endblock %}
+
+{% block main %}
+    <h1>Your Portfolio</h1>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th class="text-start">Stock Symbol</th>
+                <th class="text-end">Shares</th>
+                <th class="text-end">Purchase Price</th>
+                <th class="text-end">Current Price</th>
+                <th class="text-end">Total Current Value</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for purchase in portfolio %}
+                <tr>
+                    <td class="text-start">{{ purchase["stock_symbol"] }}</td>
+                    <td class="text-end">{{ purchase["stock_quantity"] }}</td>
+                    <td class="text-end">${{ purchase["purchase_price"]|round(2) }}</td>
+                    <td class="text-end" style="color: {{ 'red' if purchase['stock_price'] < purchase['purchase_price'] else 'green' }};">
+                        ${{ purchase["stock_price"]|round(2) }}
+                    </td>
+                    <td class="text-end">{{ (purchase["stock_quantity"] * purchase["stock_price"])|usd }}</td>
+                </tr>
+            {% endfor %}
+        </tbody>
+        <tfoot>
+            <tr>
+                <td class="border-0 fw-bold text-end" colspan="4">Total Stock Value</td>
+                <td class="border-0 text-end" style="color: {{ 'red' if stock_assets < spent else 'green' }};">{{ stock_assets|usd }}</td>
+            </tr>
+            <tr>
+                <td class="border-0 fw-bold text-end" colspan="4">Total Spent</td>
+                <td class="border-0 text-end">{{ spent|usd }}</td>
+            </tr>
+            <tr>
+                <td class="border-0 fw-bold text-end" colspan="4">Net Difference</td>
+                <td class="border-0 text-end" style="color: {{ 'red' if (stock_assets - spent) < 0 else 'green' }};">{{ (stock_assets - spent)|usd }}</td>
+            </tr>
+            <tr>
+                <td class="border-0 fw-bold text-end" colspan="4">Available Cash</td>
+                <td class="border-0 text-end" style="color:green">{{ cash|usd }}</td>
+            </tr>
+            <tr>
+                <td class="border-0 fw-bold text-end" colspan="4">Total Assets</td>
+                <td class="border-0 text-end">{{ total|usd }}</td>
+            </tr>
+        </tfoot>
+
+
+    </table>
+{% endblock %}

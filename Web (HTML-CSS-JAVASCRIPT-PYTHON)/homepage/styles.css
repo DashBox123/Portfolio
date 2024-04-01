@@ -1,0 +1,21 @@
+.nav-pills .nav-link {
+    color: white;
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .nav-link:hover {
+    background-color: #6c757d;
+    font-size:17px;
+}
+.navbar-brand {
+    color: white;
+}
+.navbar-brand:hover {
+    color: white;
+}
+.card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.3);
+}
+
+

@@ -1,0 +1,11 @@
+HTML tags used (19):
+
+link, script, meta, header, nav, div, a, button, span, ul, li, form, input, h1, p, img, small, h5, footer
+
+CSS properties used (5):
+color, background-color, transform, box-shadow, font-size
+
+Javascript and Boostrap:
+3 Javascript functions to run the button game on the index page. Boostrap is absolutely everywhere. I've heavily
+used containers, cards, flexboxes etc.
+
