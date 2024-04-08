@@ -1,4 +1,4 @@
-# Portfolio
+# Portfolio [WIP]
 
 ## Welcome to Usama Ahmed's Portfolio!
 Hello and welcome!👋 I'm thrilled to have you here exploring my portfolio. Whether you're a potential employer, collaborator, or just curious about my work, I'm excited to showcase my projects, skills, and experiences.
@@ -21,6 +21,8 @@ Feel free to explore my projects. Below is a table of contents, so to speak.
 Each of the above folders have their own READMEs detailing the projects within in further detail. But if you're short on time, you can have a look below for some project highlights!
 
 ## Project Highlights
+
+[INSERT PROJECT HIGHLIGHTS HERE]
 
 Finally, don't hesitate to reach out if you have any questions, feedback, or opportunities for collaboration. I'm always eager to connect with like-minded individuals.
 
