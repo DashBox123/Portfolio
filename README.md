@@ -6,15 +6,22 @@ Hello and welcome!👋 I'm thrilled to have you here exploring my portfolio. Whe
 ## About Me
 I'm Usama, a scientist, engineer, and an overall curious individual interested in all sorts of things! Throughout my career, I've had the opportunity to work on a diverse range of projects, from HTML websites to n-body simulations in Python. I like tinkering and creating things. And this portfolio, is a collection of all of my creations so far.
 
+## What You'll Find Here
+Lots of things really. This portfolio contains all of my creations. There's some 3D art in Blender, some software, games, and simulations I've written in various languages, and projects I've completed for university or other courses. You can even read my MSci dissertation if you want to!
+
 ## How to Navigate
-Feel free to explore my projects, which are organized into the following categories
+Feel free to explore my projects. Below is a table of contents, so to speak.
 
-- **3D Art** : [Brief description of projects in this category]
-- **[Category 2]** : [Brief description of projects in this category]
-- **[Category 3]** : [Brief description of projects in this category]
+- **3D Art** : Contains image renders of some of my 3D work in Blender
+- **C** : Contains projects that exclusively use C
+- **Python** : Contains projects that exclusively use Python
+- **University** : Contains all of my coursework/ projects etc. from university. Yes, even my final year dissertation.
+- **Web** : Contains all code related to web programming including Python flask, HTML, Javascript etc.
 
-- 
-Additionally, don't hesitate to reach out if you have any questions, feedback, or opportunities for collaboration. I'm always eager to connect with like-minded individuals who share my passion for [Your Field/Interest].
+Each of the above folders have their own READMEs detailing the projects within in further detail. But if you're short on time, you can have a look below for some project highlights!
+
+## Project Highlights
+
+Finally, don't hesitate to reach out if you have any questions, feedback, or opportunities for collaboration. I'm always eager to connect with like-minded individuals.
 
 Thank you for visiting, and I hope you enjoy browsing through my portfolio!
-ywindow of your choosing.
