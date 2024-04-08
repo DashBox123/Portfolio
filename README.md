@@ -1,4 +1,7 @@
-# Portfolio [WIP]
+# Portfolio
+
+## Disclaimer
+I am currently updating this portfolio so apologies if a few things look broken!
 
 ## Welcome to Usama Ahmed's Portfolio!
 Hello and welcome!👋 I'm thrilled to have you here exploring my portfolio. Whether you're a potential employer, collaborator, or just curious about my work, I'm excited to showcase my projects, skills, and experiences.
