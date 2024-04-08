@@ -16,7 +16,7 @@ Feel free to explore my projects. Below is a table of contents, so to speak.
 - **C** : Contains projects that exclusively use C
 - **Python** : Contains projects that exclusively use Python
 - **University** : Contains all of my coursework/ projects etc. from university. Yes, even my final year dissertation.
-- **Web** : Contains all code related to web programming including Python flask, HTML, Javascript etc.
+- **Web** : Contains projects related to web programming. Languages used may include Python, HTML, Javascript etc.
 
 Each of the above folders have their own READMEs detailing the projects within in further detail. But if you're short on time, you can have a look below for some project highlights!
 
