@@ -7,7 +7,7 @@ Hello and welcome!👋 I'm thrilled to have you here exploring my portfolio. Whe
 I'm Usama, a scientist, engineer, and an overall curious individual interested in all sorts of things! Throughout my career, I've had the opportunity to work on a diverse range of projects, from HTML websites to n-body simulations in Python. I like tinkering and creating things. And this portfolio, is a collection of all of my creations so far.
 
 ## What You'll Find Here
-Lots of things really. This portfolio contains all of my creations. There's some 3D art in Blender, some software, games, and simulations I've written in various languages, and projects I've completed for university or other courses. You can even read my MSci dissertation if you want to!
+Lots of things really. This portfolio contains all of my creations. There's some 3D art in Blender, some software, games, and simulations I've written in various languages, and projects I've completed for university or other courses. You could even read my final year university dissertation if you wanted to!
 
 ## How to Navigate
 Feel free to explore my projects. Below is a table of contents, so to speak.
